@@ -7,7 +7,7 @@
 
 **Thoughts:** I've been working on my CSS and Js skills over the past few months and finally getting to start to learn a framework is definitely a milestone for me in my coding journey.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Basic Hello React program](https://stackblitz.com/edit/hello-react-example-euvfaw)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
