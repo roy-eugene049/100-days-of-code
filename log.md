@@ -5,7 +5,7 @@
 
 **Today's Progress**: Picked up on the basic concepts of creating an app with react, installed the relevant dependencies and really eaxcited for Day 2.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I've been working on my CSS and Js skills over the past few months and finally getting to start to learn a framework is definitely a milestone for me in my coding journey.
 
 **Link to work:** [Calculator App](http://www.example.com)
 
