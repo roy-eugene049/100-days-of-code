@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: October 26, 2021 
+##### (started learning react and created my first simple react app)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
