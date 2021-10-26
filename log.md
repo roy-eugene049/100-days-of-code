@@ -3,7 +3,7 @@
 ### Day 1: October 26, 2021 
 ##### (started learning react and created my first simple react app)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Picked up on the basic concepts of creating an app with react, installed the relevant dependencies and really eaxcited for Day 2.
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
