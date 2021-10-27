@@ -9,14 +9,14 @@
 
 **Link to work:** [Basic Hello React program](https://stackblitz.com/edit/hello-react-example-euvfaw)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: October 27, 2021 
+##### (learned about JSX, function and class components and created a counter app)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learnt about functional and class components together with JSK. Made a counter app that increments a counter variable every second and displays it on the page as a paragraph.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**:  I'm starting to get a hang of what React as a framework and JS library is all about. Learning how the DOM work and why React's Virtual DOM gives it an edge over other frontend technologies.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Counter App](https://github.com/roy-eugene049/react-jsx-counter-app)
 
 
 ### Day 1: June 27, Monday
