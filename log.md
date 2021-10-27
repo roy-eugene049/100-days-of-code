@@ -12,7 +12,7 @@
 ### Day 2: October 27, 2021 
 ##### (learned about JSX, function and class components and created a counter app)
 
-**Today's Progress**: Learnt about functional and class components together with JSK. Made a counter app that increments a counter variable every second and displays it on the page as a paragraph.
+**Today's Progress**: Learnt about functional/class components and how JSK works. Made a counter app that increments a counter variable every second and displays it on the page as a paragraph.
 
 **Thoughts**:  I'm starting to get a hang of what React as a framework and JS library is all about. Learning how the DOM work and why React's Virtual DOM gives it an edge over other frontend technologies.
 
