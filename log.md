@@ -19,12 +19,12 @@
 **Link(s) to work**: [Counter App](https://github.com/roy-eugene049/react-jsx-counter-app)
 
 ### Day 3: October 28, 2021 
-##### (learned about props in functional/class components and state)
+##### (learned about props and state in functional/class components)
 
-**Today's Progress**: Learnt about props in functional/class components. 
+**Today's Progress**: Learnt about props in functional/class components. Made a counter app that increments the counter each time a button is clicked. 
 
 **Thoughts**: Props and state are essential when it comes to working with functional and class components.
-**Link(s) to work**: [Counter App](https://github.com/roy-eugene049/react-jsx-counter-app)
+**Link(s) to work**: [Counter App](https://github.com/roy-eugene049/react-state-counter-example)
 
 
 ### Day 1: June 27, Monday
