@@ -26,6 +26,14 @@
 **Thoughts**: Props and state are essential when it comes to working with functional and class components.
 **Link(s) to work**: [Counter App](https://github.com/roy-eugene049/react-state-counter-example)
 
+### Day 4: October 29, 2021 
+##### (learned about using hooks in functional components)
+
+**Today's Progress**: Learnt about hooks in functional components. Rewrote the code to the counter app from Day 3 using a functional component and hooks. 
+
+**Thoughts**: Using hooks makes the code much shorter, cleaner and easier to read.
+**Link(s) to work**: [Counter App using a functional component and hooks](https://github.com/roy-eugene049/react-hooks-counter)
+
 
 ### Day 1: June 27, Monday
 
