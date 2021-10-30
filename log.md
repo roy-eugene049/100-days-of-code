@@ -34,6 +34,14 @@
 **Thoughts**: Using hooks makes the code much shorter, cleaner and easier to read.
 **Link(s) to work**: [Counter App using a functional component and hooks](https://github.com/roy-eugene049/react-hooks-counter)
 
+### Day 5: October 30, 2021 
+##### (learned about lifecycle methods for both class and functional components)
+
+**Today's Progress**: Learnt about the lifecycle component methods that can be used in class components and class components. 
+
+**Thoughts**: Through lifecycle methods, we can then control what happens when each tiny section of our UI renders, updates, thinks about re-rendering, and then disappears entirely.
+**Link(s) to work**: [useEffect Counter](https://stackblitz.com/edit/react-hooks-useeffect-counter-example-vh5as3?file)
+
 
 ### Day 1: June 27, Monday
 
