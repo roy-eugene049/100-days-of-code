@@ -42,6 +42,13 @@
 **Thoughts**: Through lifecycle methods, we can then control what happens when each tiny section of our UI renders, updates, thinks about re-rendering, and then disappears entirely.
 **Link(s) to work**: [useEffect Counter](https://stackblitz.com/edit/react-hooks-useeffect-counter-example-vh5as3?file)
 
+### Day 6: October 31, 2021 
+##### (Covered Event Handling in React)
+
+**Today's Progress**: Learnt about handling user input and forms. 
+
+**Thoughts**: Event handling is essential since users interact with web pages in many ways.
+**Link(s) to work**: [Km Miles Converter](https://github.com/roy-eugene049/react-km-miles-converter)
 
 ### Day 1: June 27, Monday
 
