@@ -56,7 +56,7 @@
 **Today's Progress**: Covered rendering a list, sharing state and created a Contact Manager. 
 
 **Thoughts**: Props can be used not only to pass down state but also functions that may manipulate the state. In this way, we are able to store the application state in the parent and allow its child components to use and manipulate the state.
-**Link(s) to work**: [Contact Manager](hhttps://github.com/roy-eugene049/react-contact-manager-4)
+**Link(s) to work**: [Contact Manager](https://github.com/roy-eugene049/react-contact-manager-4)
 
 ### Day 1: June 27, Monday
 
