@@ -58,6 +58,13 @@
 **Thoughts**: Props can be used not only to pass down state but also functions that may manipulate the state. In this way, we are able to store the application state in the parent and allow its child components to use and manipulate the state.
 **Link(s) to work**: [Contact Manager](https://github.com/roy-eugene049/react-contact-manager-4)
 
+### Day 8: November 2, 2021 
+##### (Covered Arrays in JavaaScript)
+
+**Today's Progress**: Covered Array accessibility and manioulation using the various methods and functions like pop() and push(). 
+
+**Thoughts**: Each element in an array can store any of the data types, as well as other arrays. Array elements can also contain functions and JavaScript objects.
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
