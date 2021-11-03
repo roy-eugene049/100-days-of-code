@@ -68,7 +68,7 @@
 ### Day 9: November 3, 2021 
 ##### (Made a Counter program with JavaScript)
 
-**Today's Progress**: Put my knowledge of Handling Events into making a counter app that can increase an decrease an initial value of zero while changing the color when the value is both above and below zero. 
+**Today's Progress**: Put my knowledge of Handling Events into making a counter app that can increase and decrease an initial value of zero while changing the color when the value is both above and below zero. 
 
 **Thoughts**: Understanding functions and handling events is instrumental when it comes to creating JavaScript programs.
 **Link(s) to work**: [Counter](https://github.com/roy-eugene049/JavaScript-Counter)
