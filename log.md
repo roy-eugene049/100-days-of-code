@@ -59,11 +59,18 @@
 **Link(s) to work**: [Contact Manager](https://github.com/roy-eugene049/react-contact-manager-4)
 
 ### Day 8: November 2, 2021 
-##### (Covered Arrays in JavaaScript)
+##### (Covered Arrays in JavaScript)
 
 **Today's Progress**: Covered Array accessibility and manioulation using the various methods and functions like pop() and push(). 
 
 **Thoughts**: Each element in an array can store any of the data types, as well as other arrays. Array elements can also contain functions and JavaScript objects.
+
+### Day 9: November 3, 2021 
+##### (Made a Counter program with JavaScript)
+
+**Today's Progress**: Put my knowledge of Handling Events into making a counter app that can increase an decrease an initial value of zero while changing the color when the value is both above and below zero. 
+
+**Thoughts**: Understanding functions and handling events is instrumental when it comes to creating JavaScript programs.
 
 ### Day 1: June 27, Monday
 
