@@ -73,6 +73,11 @@
 **Thoughts**: Understanding functions and handling events is instrumental when it comes to creating JavaScript programs.
 **Link(s) to work**: [Counter](https://github.com/roy-eugene049/JavaScript-Counter)
 
+### Day 10: November 4, 2021 
+##### (Dived into JavaScript's library Redux)
+
+**Today's Progress**: Went through the basics of understanding Redux.
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
