@@ -78,7 +78,7 @@
 
 **Today's Progress**: Went through the basics of understanding Redux.
 
-### Day 10: November 4, 2021 
+### Day 11: November 5, 2021 
 ##### (Dived into deeper into Redux)
 
 **Today's Progress**: Learnt about the core concepts that Redux sticks by. This includes the 'Single source of truth', 'state is read-only', actions and reducers.
