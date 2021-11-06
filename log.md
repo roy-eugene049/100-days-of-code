@@ -85,6 +85,14 @@
 
 **Thoughts**: Redux was created to make state management predictable, providing a single state container and strict rules on how state can be changed.
 
+### Day 12: November 6, 2021 
+##### (Dived into deeper into Redux)
+
+**Today's Progress**: Learnt about Reducer Functions.
+
+**Thoughts**: Reducer functions are essential in handling multiple actions.
+
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
