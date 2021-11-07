@@ -92,6 +92,14 @@
 
 **Thoughts**: Reducer functions are essential in handling multiple actions.
 
+### Day 13: November 7, 2021 
+##### (Counter App using React+Redux)
+
+**Today's Progress**: Made a fully functional React+Redux Counter App. Learnt about creating stores in Redux, passing the connect() function using its two optional parameters and accessing the store. Making projects managable by seperating the source files for components, reducers and actions.
+
+**Thoughts**: Implementing both React and Redux is great when building large scale apps that use many components, reducers and actions.
+**Link(s) to work**: [Counter](https://github.com/roy-eugene049/react-redux-counter-example)
+
 
 ### Day 1: June 27, Monday
 
