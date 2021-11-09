@@ -100,6 +100,16 @@
 **Thoughts**: Implementing both React and Redux is great when building large scale apps that use many components, reducers and actions.
 **Link(s) to work**: [Counter](https://github.com/roy-eugene049/react-redux-counter-example)
 
+### Day 14: November 8, 2021 
+##### (Started working on a blog site)
+
+**Today's Progress**: 
+Started working on a Blog Site.
+
+### Day 15: November 9, 2021 
+##### (Blog Structure)
+
+**Today's Progress**: Worked on the html and css of the blog site and made it responsive.
 
 ### Day 1: June 27, Monday
 
