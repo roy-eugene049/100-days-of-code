@@ -111,7 +111,7 @@ Started working on a Blog Site.
 
 **Today's Progress**: Worked on the html and css of the blog site and made it responsive.
 
-### Day 15: November 9, 2021 
+### Day 15: November 10, 2021 
 ##### (Blog NavBar)
 
 **Today's Progress**: Worked on the Blog's NavBar and made necessary adajustments to the Html.
