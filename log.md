@@ -111,10 +111,11 @@ Started working on a Blog Site.
 
 **Today's Progress**: Worked on the html and css of the blog site and made it responsive.
 
-### Day 15: November 10, 2021 
+### Day 16: November 10, 2021 
 ##### (Blog NavBar)
 
 **Today's Progress**: Worked on the Blog's NavBar and made necessary adajustments to the Html.
+completed the REACT+REDUX course and got my certification.
 
 
 ### Day 1: June 27, Monday
