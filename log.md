@@ -117,6 +117,10 @@ Started working on a Blog Site.
 **Today's Progress**: Worked on the Blog's NavBar and made necessary adajustments to the Html.
 completed the REACT+REDUX course and got my certification.
 
+### Day 17: November 10, 2021 
+##### (CSS GRID)
+
+**Today's Progress**: Working on my Site, dived deep into the layout. Loving the flexibility that CSS Grid has to offer.
 
 ### Day 1: June 27, Monday
 
