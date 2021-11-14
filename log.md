@@ -125,7 +125,18 @@ completed the REACT+REDUX course and got my certification.
 ### Day 18: November 12, 2021 
 ##### (CSS Selectors)
 
-**Today's Progress**: Dived much deeper into CSS whie working on my site, had a recap on selectors. Used CSS Diner for this and woud highly recommend the tool. 
+**Today's Progress**: Dived much deeper into CSS whie working on my site, had a recap on selectors. Used CSS Diner for this and woud highly recommend the tool.
+
+### Day 19: November 13, 2021 
+##### (Tribute Page)
+
+**Today's Progress**: Coded a TRIBUTE Page for Yoru(An Agent in a popular multiplayer game called Valorant). 
+
+### Day 20: November 14, 2021 
+##### (Survey Form)
+
+**Today's Progress**: Coded a Survey Form purely by Css and Html.
+**Link(s) to work**: [Survey](https://github.com/roy-eugene049/Twiice-Tech-Survey)
 
 ### Day 1: June 27, Monday
 
