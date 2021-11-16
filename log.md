@@ -138,6 +138,17 @@ completed the REACT+REDUX course and got my certification.
 **Today's Progress**: Coded a Survey Form purely by Css and Html.
 **Link(s) to work**: [Survey](https://github.com/roy-eugene049/Twiice-Tech-Survey)
 
+### Day 21: November 15, 2021 
+##### (Parallax Website)
+
+**Today's Progress**: ,Made a website with a beautiful parallax scrolling effect.
+**Link(s) to work**: [Parallax Website](https://github.com/roy-eugene049/parallax-website)
+
+### Day 22: November 16, 2021 
+##### (Chrome Dev Summit 2021)
+
+**Today's Progress**: Attended the Chrome Dev Summit 2021. Hosted by Maxmiliano Firtman. The PWA Workshop was informative, I learnt a lot on building Progressive Web Applications.
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
